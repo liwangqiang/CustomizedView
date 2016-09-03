@@ -12,14 +12,11 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+        
+//        let nav = NavigationControl.loadFromNib()
+//        
+//        nav.frame = CGRect(x: 0, y: 0, width: 150, height: 100)
+//        self.view.addSubview(nav)
     }
-
-    override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
-        // Dispose of any resources that can be recreated.
-    }
-
-
 }
 
