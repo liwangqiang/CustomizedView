@@ -24,14 +24,6 @@
                                     <constraint firstAttribute="height" constant="80" id="3e4-lm-S0j"/>
                                     <constraint firstAttribute="width" constant="100" id="6dk-N4-ZE3"/>
                                 </constraints>
-                                <userDefinedRuntimeAttributes>
-                                    <userDefinedRuntimeAttribute type="color" keyPath="background">
-                                        <color key="value" red="0.60000002379999995" green="0.40000000600000002" blue="0.20000000300000001" alpha="1" colorSpace="calibratedRGB"/>
-                                    </userDefinedRuntimeAttribute>
-                                    <userDefinedRuntimeAttribute type="image" keyPath="image" value="docs-next-doc"/>
-                                    <userDefinedRuntimeAttribute type="image" keyPath="preImage" value="docs-prev-doc"/>
-                                    <userDefinedRuntimeAttribute type="image" keyPath="nextImage" value="docs-next-doc"/>
-                                </userDefinedRuntimeAttributes>
                             </view>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
@@ -45,8 +37,4 @@
             </objects>
         </scene>
     </scenes>
-    <resources>
-        <image name="docs-next-doc" width="51" height="48"/>
-        <image name="docs-prev-doc" width="52" height="48"/>
-    </resources>
 </document>
