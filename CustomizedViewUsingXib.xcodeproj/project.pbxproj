@@ -16,7 +16,6 @@
 		1F7201BD1D7AF73E005A5F17 /* NavigationControl.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1F7201BC1D7AF73E005A5F17 /* NavigationControl.xib */; };
 		1F7201BF1D7AF7BD005A5F17 /* NavigationControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F7201BE1D7AF7BD005A5F17 /* NavigationControl.swift */; };
 		1F7201C11D7AFF4D005A5F17 /* IBDesignableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F7201C01D7AFF4D005A5F17 /* IBDesignableView.swift */; };
-		1F7201C31D7B0DEC005A5F17 /* Readme.md in Sources */ = {isa = PBXBuildFile; fileRef = 1F7201C21D7B0DEC005A5F17 /* Readme.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -43,7 +42,6 @@
 		1F7201BC1D7AF73E005A5F17 /* NavigationControl.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = NavigationControl.xib; sourceTree = "<group>"; };
 		1F7201BE1D7AF7BD005A5F17 /* NavigationControl.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NavigationControl.swift; sourceTree = "<group>"; };
 		1F7201C01D7AFF4D005A5F17 /* IBDesignableView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IBDesignableView.swift; sourceTree = "<group>"; };
-		1F7201C21D7B0DEC005A5F17 /* Readme.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = Readme.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,7 +92,6 @@
 				1F7201BC1D7AF73E005A5F17 /* NavigationControl.xib */,
 				1F7201BE1D7AF7BD005A5F17 /* NavigationControl.swift */,
 				1F7201C01D7AFF4D005A5F17 /* IBDesignableView.swift */,
-				1F7201C21D7B0DEC005A5F17 /* Readme.md */,
 			);
 			path = CustomizedViewUsingXib;
 			sourceTree = "<group>";
@@ -210,7 +207,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1F7201C31D7B0DEC005A5F17 /* Readme.md in Sources */,
 				1F7201C11D7AFF4D005A5F17 /* IBDesignableView.swift in Sources */,
 				1F72019F1D7AF70E005A5F17 /* ViewController.swift in Sources */,
 				1F72019D1D7AF70E005A5F17 /* AppDelegate.swift in Sources */,
