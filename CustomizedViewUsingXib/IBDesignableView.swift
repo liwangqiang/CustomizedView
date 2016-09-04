@@ -39,6 +39,11 @@ class DesignableView: UIView {
         nextButton.frame = CGRect(x: size.width/2, y: 0, width: size.width/2, height: size.height)
     }
     
+    override func intrinsicContentSize() -> CGSize {
+        super.intrinsicContentSize()
+        return CGSize(width: 103, height: 48)
+    }
+    
     override func prepareForInterfaceBuilder() {
         super.prepareForInterfaceBuilder()
     }

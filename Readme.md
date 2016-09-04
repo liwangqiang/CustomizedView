@@ -1,6 +1,14 @@
 
-Customized View using Xib and Storyboard
+# Customized View using Xib and Storyboard
 
-using IBDesignable 
+~~~~
+keywords: 
 
-more see: https://onevcat.com/2014/10/ib-customize-view/
+IBDesignable 
+intrinsicContentSize
+
+
+links:
+
+https://onevcat.com/2014/10/ib-customize-view/
+https://objccn.io/issue-3-5/
